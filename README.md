@@ -1,2 +1,2 @@
 # myrest
-In-class repo for Winter Data Science Institure
+In-class repo for Winter Data Science Institute
